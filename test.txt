@@ -2,4 +2,4 @@ test text
 feature 1
 test file
 feature 2
-
+bugfix
